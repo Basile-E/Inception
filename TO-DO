@@ -1,0 +1,6 @@
+Flou
+    [] "A Docker container that contains NGINX with TLSv1.2 or TLSv1.3 only." pourquoi only ?
+        est-ce que nginx viens avec des services en plus qu'il faut retirer ?
+    [] "A Docker container that contains WordPress + php-fpm without nginx." comment ça sans nginx ?
+    [] "A volume that contains your WordPress database." comment faire un volume et comment faire une database ?
+    [] "You must use Docker named volumes"
